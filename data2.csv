@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 patient_id,patient_name,joining_date,symptoms,prev_diagnosis,new_symptoms,latest_diagnosis
 1,shiv,2024-10-01,"sore throat , red eyes","**Sore Throat:** Ibuprofen (Advil)
 **Red Eyes:** Visine (tetrahydrozoline)",red skin,"* **Calamine lotion:** Soothes itching and inflammation.
@@ -11,16 +10,3 @@ patient_id,patient_name,joining_date,symptoms,prev_diagnosis,new_symptoms,latest
 * **Hydrocortisone cream:** Reduces inflammation and redness."
 5,shiva,2024-10-01,eye rashes,,,"* **Fluticasone propionate ophthalmic solution (Flonase)**
 * **Loteprednol etabonate ophthalmic suspension (Lotemax)**"
-=======
-patient_id,patient_name,joining_date,discharge_date,symptoms,prev_diagnosis,new_symptoms,latest_diagnosis
-1,charan,2025-04-24,,headache,,,"For most headaches, over-the-counter pain relievers like ibuprofen (Advil, Motrin) or acetaminophen (Tylenol) are often effective.
-"
-2,charan,2025-04-24,,red eyes,,,
-3,kiran,2025-04-24,,dry eyes ,,,"Two commonly recommended options are:
-
-*   **Artificial tears** (various brands) for lubrication.
-*   **Cyclosporine ophthalmic emulsion** (Restasis) or **Lifitegrast ophthalmic solution** (Xiidra) for inflammation.
-"
-4,ravi ,2025-04-24,,red eyes,,,"For red eyes, two common over-the-counter options are artificial tears for lubrication and redness-relieving eye drops containing a decongestant.
-"
->>>>>>> ff8045e (modified)

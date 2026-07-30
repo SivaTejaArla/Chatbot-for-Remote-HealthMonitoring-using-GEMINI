@@ -25,8 +25,6 @@ print("Connected")
 
 
 
-
-
 def runQuery(query,params):
     cursor.execute(query,params)    
     cursor.execute("commit")

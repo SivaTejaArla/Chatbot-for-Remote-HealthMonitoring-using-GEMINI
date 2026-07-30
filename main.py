@@ -19,6 +19,7 @@ engine=pyttsx3.init('sapi5')
 voices=engine.getProperty('voices')
 engine.setProperty('voice',voices[0].id)
 
+
 db= conn.connect(host ='localhost',password = '0000',user ='root',database = 'victims')
 cursor = db.cursor()
 print("Connected")

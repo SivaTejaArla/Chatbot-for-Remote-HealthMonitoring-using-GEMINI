@@ -23,8 +23,6 @@ db= conn.connect(host ='localhost',password = '0000',user ='root',database = 'vi
 cursor = db.cursor()
 print("Connected")
 
-
-
 def runQuery(query,params):
     cursor.execute(query,params)    
     cursor.execute("commit")
